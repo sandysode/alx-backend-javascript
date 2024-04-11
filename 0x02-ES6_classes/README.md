@@ -1,0 +1,2 @@
+es6_classes
+
